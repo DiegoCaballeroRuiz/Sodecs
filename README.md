@@ -1,7 +1,7 @@
 # Sodecs
 Sodecs (simple odin ecs) is a simple ecs architecture for games written in odin
 
->[!Warning] Disclaimer
+## WARNING
 > sodecs is meant to be **simple, not fast**, if you are looking for an eficient 
 > architecture to build your higly performant game on top of, use something else 
 > entirely
@@ -37,5 +37,5 @@ display_names :: proc(world: ^sodecs.World, _: f32) {
 }
 ```
 
->[!Note] Further usage instructions 
-> Deeper usage instructions coming soon, also I will add some examples to `examples/`
+## More coming soon (I hope)
+Deeper usage instructions, and some main loop examples will be added to this repo
